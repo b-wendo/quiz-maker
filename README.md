@@ -29,7 +29,6 @@ This is a beginner-friendly Python project built during the RITA Africa Bootcamp
 
 ## Files Included
 - quiz_maker.ipynb – Main notebook containing the project code
-- quiz_scores.txt – (Optional) Sample score file generated after completing the quiz
 - README.md – This file
 
 ## Author
